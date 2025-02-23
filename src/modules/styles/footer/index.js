@@ -2,6 +2,7 @@ import styled from "styled-components";
 import * as common from "../common";
 
 export const Footer = styled.footer`
-  background-color: ${common.colors.primary};
+  background-color: #333333;
+  color: #ffffff;
   padding: 1rem;
 `;

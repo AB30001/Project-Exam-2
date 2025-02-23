@@ -102,6 +102,7 @@ export const Dropdown = styled.div`
     list-style: none;
     padding: 0.25rem;
     font-size: 1.2rem;
+    color: black;
   }
   a {
     color: black;
